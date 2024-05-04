@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CinemaSystem.Models
 {
-    public partial class Seat
+    public class Seat
     {
         public int Id { get; set; }
         public int? Row { get; set; }
