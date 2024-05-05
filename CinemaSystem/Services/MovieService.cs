@@ -1,6 +1,7 @@
 ﻿using CinemaSystem.Models;
 using Microsoft.EntityFrameworkCore;
 using CinemaSystem.Services.Contracts;
+using CinemaSystem.Data;
 
 namespace CinemaSystem.Services
 {

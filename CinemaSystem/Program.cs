@@ -1,4 +1,4 @@
-using CinemaSystem;
+using CinemaSystem.Data;
 using CinemaSystem.Services;
 using CinemaSystem.Services.Contracts;
 using Microsoft.EntityFrameworkCore;
